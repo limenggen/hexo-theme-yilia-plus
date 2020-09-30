@@ -7,7 +7,6 @@ hexo-theme-yilia-plus
 ![issues](https://img.shields.io/github/issues/JoeyBling/hexo-theme-yilia-plus "issues")
 [![Author](https://img.shields.io/badge/Author-JoeyBling-red.svg "Author")](https://zhousiwei.gitee.io "Author")
 [![Hexo Version](https://img.shields.io/badge/hexo-%3E%3D%203.0-blue.svg)](http://hexo.io)
-[![博客搭建交流群](https://img.shields.io/badge/QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 [![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
 
 
@@ -56,21 +55,7 @@ hexo-theme-yilia-plus
 - 功能还很少，欢迎各位给我提意见和建议~
 - **本项目源于：[https://github.com/litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia "https://github.com/litten/hexo-theme-yilia")。向作者表示深深的敬意。**
 
-[yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 是为 [hexo](https://github.com/hexojs/hexo) 2.4+制作的主题。
-崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](https://zhousiwei.gitee.io) 查看效果。
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](./examples/images/qrcode.png)
-
 ----------
-
-## 鼓励
-
-&#160;&#160;&#160;&#160;**如果觉得本主题还不错，您的支持和鼓励才是后续更新最大的动力，== 欢迎 [Star](https://github.com/JoeyBling/hexo-theme-yilia-plus/stargazers) ==**
-
-![Stargazers over time](https://starchart.cc/JoeyBling/hexo-theme-yilia-plus.svg)
-
 ## 关于主题：
 1. 崇尚简约
 2. 追求移动端体验
@@ -79,10 +64,6 @@ hexo-theme-yilia-plus
 5. 主题不支持IE6，7，8。以后也不会
 
 ## 一、外观
-
-#### **常规**
-
-![常规](./examples/images/web.png)
 
 ## 二、开发者
 
@@ -403,7 +384,7 @@ friends:
     url: https://blog.csdn.net/qq_30930805
 
 # 关于我
-aboutme: 主要涉及技术：<br>Java后端开发、聚合支付、<br>公众号开发、开源爱好者、Linux<br><br>联系QQ:2434387555<br><br>很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 主要涉及技术：<br>Java后端开发、聚合支付、<br>公众号开发、开源爱好者、Linux<br><br>联系QQ:123456<br><br>很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
 ```
 
 
@@ -413,14 +394,6 @@ aboutme: 主要涉及技术：<br>Java后端开发、聚合支付、<br>公众�
 - ### 一款简洁优雅的VuePress主题：[vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
 - ### VuePress集成Live2D看板娘：[vuepress-plugin-helper-live2d](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
 - ### VuePress回到页首插件Plus：[vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus)
-
-## 捐赠
-&#160;&#160;&#160;&#160;**如果感觉对您有帮助，请作者喝杯咖啡吧，请注明您的名字或者昵称，方便作者感谢o(*￣︶￣*)o**
-
-| 微信 | 支付宝 |
-| :---: | :---: |
-| ![](./examples/images/weixin.png) | ![](./examples/images/alipay.jpeg) |
-
 ### Hexo博客优化
 - [Hexo博客集成码云评论系统](https://www.jianshu.com/p/f5c4633524c7)
 - [Hexo博客集成Gitment评论](https://www.jianshu.com/p/ac7658cc912f)
